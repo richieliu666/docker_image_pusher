@@ -1,5 +1,2 @@
 gdy666/lucky
-jlesage/handbrake
-oldiy/npc-client
-probezy/cpolar
-vaultwarden/server
+logicjake/webmonitor
