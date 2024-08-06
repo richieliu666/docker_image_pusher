@@ -2,3 +2,4 @@ gdy666/lucky
 logicjake/webmonitor
 oldiy/nps-server
 dockurr/windows
+nginx:alpine
