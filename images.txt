@@ -3,5 +3,5 @@ logicjake/webmonitor
 oldiy/nps-server
 dockurr/windows
 bestoray/pgyvpn
-linkease/webvirtcloud
+linkease/webvirtcloud:0.2
 lozyme/sockd
