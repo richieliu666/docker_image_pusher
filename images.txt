@@ -5,3 +5,4 @@ dockurr/windows
 bestoray/pgyvpn
 linkease/webvirtcloud
 lozyme/sockd
+hslr/sun-panel
