@@ -7,3 +7,4 @@ linkease/webvirtcloud
 lozyme/sockd
 hslr/sun-panel
 fingerboy/istoreos-x86-64
+jlesage/handbrake
